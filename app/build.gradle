@@ -1,0 +1,11 @@
+plugins {
+    id 'base-app'
+}
+
+android {
+    namespace "com.t.movie_uni"
+
+    defaultConfig {
+        applicationId "com.mutkuensert.movie_uni"
+    }
+}
